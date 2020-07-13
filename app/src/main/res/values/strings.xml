@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="underweight">You are underweight</string>
+    <string name="normal">Your BMI is normal</string>
+    <string name="overweight">You are overweight</string>
+    <string name="obese">You are obese</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="reset">RESET DATA</string>
+    <string name="lastCalcDate">Last Calculated Date:</string>
+    <string name="lastCalcBMI">Last Calculated BMI:</string>
+</resources>
